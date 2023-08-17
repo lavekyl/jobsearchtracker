@@ -1,7 +1,7 @@
 import "./bootstrap";
 
 // Modules
-import LoginModal from "./modules/LoginModal";
+import SignupModal from "./modules/SignupModal";
 
 // Instantiate a new object using our modules/classes
-const loginModal = new LoginModal();
+const signupModal = new SignupModal();
